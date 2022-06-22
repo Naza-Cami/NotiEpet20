@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NotiEpet20",
+    "slug": "NotiEpet20",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NotiEpet20"
+}
