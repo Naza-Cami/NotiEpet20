@@ -1,0 +1,11 @@
+import react from "reacts"
+import { TextInput, View } from "react-native-web"
+
+export default function RegistrarseForm (){
+return(
+    <view>
+    <textimput placeholder="Codigo secretario"/>
+    <button title="ingresar"></button>
+    </view>
+);
+}

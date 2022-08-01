@@ -1,0 +1,15 @@
+import react from "reacts"
+import { TextInput, View } from "react-native-web"
+
+export default function LoginForm (){
+return(
+    <view>
+    <textimput placeholder="correo electronico"/>
+    <textimput placeholder="clave"/>
+    <button title="ingresar"></button>
+    </view>
+);
+}
+
+
+
