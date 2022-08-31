@@ -1,0 +1,12 @@
+import react from "react"
+import { Button, View } from "react-native-web"
+
+export default function FormIngreso(){
+   return(
+      <view>
+         <button title="ingrso alumno"></button>
+         <button title="ingrso secretaria"></button>
+      </view>
+
+   );   
+   }
