@@ -1,0 +1,16 @@
+import react from "reacts"
+import { TextInput, View } from "react-native-web"
+
+export default function RegistrarseForm (){
+return(
+    <view>
+    <textimput placeholder="Correo electronico"/>
+    <textimput placeholder="Apellido"/>
+    <textimput placeholder="Nombres"/>
+    <textimput placeholder="Numero"/>
+    <textimput placeholder="Codigo secretario"/>
+    <button title="registrarse"></button>
+    </view>
+    
+);
+}
