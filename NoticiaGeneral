@@ -1,0 +1,15 @@
+import react from "react"
+import { Button, View } from "react-native-web"
+
+export default function FormNoticiasGeneral(){
+   return(
+      <view>
+         <button title="general"></button>
+         <button title="ciclo basico"></button>
+         <button title="ciclo superior"></button>
+         <button title="egresados"></button>
+         <button title="+"></button>
+         <button title="Cerrar sesion"></button>
+      </view>
+   );   
+   }
