@@ -1,0 +1,12 @@
+import react from "reacts"
+import { h1, h2} from "react-native-web"
+
+
+<h1> E.P.E.T N°20 </h1>
+
+ <h2> Cargar Noticias </h2>
+
+ <textarea Noticias />
+
+
+ <button title="Subir not"> </button>
