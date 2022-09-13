@@ -1,0 +1,9 @@
+import react from "react"
+import {  textarea, } from "react-native-web"
+
+<textarea title ="Cerrar Sesion" />
+
+ 
+
+<button title="si"></button>
+<button title="no"></button>
