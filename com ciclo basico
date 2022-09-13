@@ -1,0 +1,21 @@
+import react from "react"
+import { Button, Textimput, textarea, View } from "react-native-web"
+
+export default function FormNoticiaCicloBasico(){
+   return(
+      <view>
+         <button title="general"></button>
+         <button title="ciclo basico"></button>
+         <button title="ciclo superior"></button>
+         <button title="egresados"></button>
+         <button title="+"></button>
+         <button title="Cerrar sesion"></button>
+
+         <Textimput placeholder="Noticias Generales"/>
+
+         <textarea FormNoticiaCicloBasico />
+      </view>
+
+      //CODIGO CICLO BASICO
+   );   
+   }
