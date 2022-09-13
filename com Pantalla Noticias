@@ -1,0 +1,22 @@
+import react from "reacts"
+import { TextInput, textarea, View} from "react-native-web"
+
+export default function FormPantallaNoticias(){
+    return(
+        <view>
+<TextInput placeholder="E.P.E.T N°20"/>
+
+
+ <TextInput placeholder="cargar noticias"/>
+
+
+
+ <textarea FormNoticiasCicloEgresados />
+
+
+ <button title="Subir not"> </button>
+
+ </view>
+// ESTE ES EL CODIGO DE PANTALLA NOTICIAS
+    );
+}
