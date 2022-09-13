@@ -1,0 +1,14 @@
+import react from "reacts"
+import { TextInput, textarea} from "react-native-web"
+
+<TextInput placeholder="E.P.E.T N°20"/>
+
+
+ <TextInput placeholder="cargar noticias"/>
+
+
+
+ <textarea FormNoticiasCicloEgresados />
+
+
+ <button title="Subir not"> </button>
