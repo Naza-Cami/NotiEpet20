@@ -1,0 +1,18 @@
+import react from "react"
+import {  textarea,button, view } from "react-native-web"
+
+export default function FormIngreso(){
+    return(
+        <view>
+
+<textarea title ="Cerrar Sesion" />
+
+ 
+
+<button title="si"></button>
+<button title="no"></button>
+
+</view>
+
+    );
+}
