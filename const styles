@@ -1,0 +1,13 @@
+import react from "reacts"
+import { sytyles, container } from "react-native-web"
+
+
+Const.Styles= styles hect.create {
+      container: {
+      flex: ' ,
+      background color : 'light blue'
+      alighItems: 'center',
+      Justify_Content : 'center',
+
+}
+}
